@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Top100Crypto</string>
+    <string name="about_text">"The rating TOP-100 cryptocurrencies by market capitalization.\nPowered by CoinGecko API "</string>
+    <string name="btn_rate_app_text">Rate This App</string>
+</resources>
